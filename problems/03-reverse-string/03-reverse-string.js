@@ -14,5 +14,4 @@ function reverseStr(someStr) {
     }
 
 }
-///reverseStr("bobert")
-reverseStr(null)
+reverseStr("bobert")
